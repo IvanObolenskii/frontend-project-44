@@ -1,6 +1,6 @@
 {
   "name": "@hexlet/code",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "[![Actions Status](https://github.com/IvanObolenskii/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/IvanObolenskii/frontend-project-44/actions)",
   "bin": {
     "brain-games": "bin/brain-games.js"
