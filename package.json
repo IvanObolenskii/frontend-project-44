@@ -18,5 +18,8 @@
     "type": "ISC",
     "url": "https://opensource.org/licenses/ISC"
   },
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
