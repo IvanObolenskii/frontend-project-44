@@ -1,0 +1,22 @@
+{
+  "name": "@hexlet/code",
+  "version": "0.0.1",
+  "description": "[![Actions Status](https://github.com/IvanObolenskii/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/IvanObolenskii/frontend-project-44/actions)",
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "https",
+    "url": "git+https://github.com/IvanObolenskii/frontend-project-44.git"
+  },
+  "author": "Ivan Obolenskii",
+  "license": {
+    "type": "ISC",
+    "url": "https://opensource.org/licenses/ISC"
+  },
+  "type": "module"
+}
