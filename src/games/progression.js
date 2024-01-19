@@ -16,7 +16,7 @@ const generateProgression = (length, start, step) => {
 const hideElementInProgression = (progression, hiddenElementIndex) => {
   const progressionCopy = [...progression];
   progressionCopy[hiddenElementIndex] = '..';
-  return progressionCopy;
+  return progressionCopy.join(' ');
 };
 
 const gameFunction = () => {
